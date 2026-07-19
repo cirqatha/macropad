@@ -1,7 +1,6 @@
 # DESKPAD
 
-A 3-key macropad with rotary encoder, OLED display, and RGB underglow
-built on the Seeed XIAO RP2040.
+A 3-key macropad with rotary encoder, OLED display, and RGB underglow for volume display
 
 ## Overall Hackpad
 <img width="1276" height="729" alt="Screenshot 2026-07-20 012313" src="https://github.com/user-attachments/assets/6fec3e07-896c-480e-8908-c9c694e34ef3" />
