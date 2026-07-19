@@ -1,4 +1,4 @@
-# deskpad
+# DESKPAD
 
 A 3-key macropad with rotary encoder, OLED display, and RGB underglow
 built on the Seeed XIAO RP2040.
